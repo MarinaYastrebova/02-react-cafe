@@ -1,4 +1,4 @@
-import css from "./Cafeinfo.module.css";
+import css from "./ааа.module.css";
 
 export default function Cafeinfo() {
   return (
